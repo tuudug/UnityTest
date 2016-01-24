@@ -6,6 +6,7 @@ public class Weapon : MonoBehaviour {
 	public float damage = 5;
 	public float moveSpeed = 5;
 	public string name = "";
+	private int ammo;
 	
 	public float getMovementSpeed()
 	{
