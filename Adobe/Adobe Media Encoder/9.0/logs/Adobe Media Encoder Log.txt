@@ -1,0 +1,17 @@
+Log file created: 12/20/2015 11:40:56 AM
+------------------------------------------
+Ticks = 1047      <13336> <AMEApp> <0> Dolby codec permission check failed
+Ticks = 1250      <13336> <DynamicLink> <5> Attempting to launch dynamiclinkmanager
+Ticks = 1250      <13336> <DynamicLink> <5> C:\Program Files\Adobe\Adobe Media Encoder CC 2015\32\dynamiclinkmanager.exe
+Ticks = 36344      <13336> <AMEApp> <0> Time taken to load MediaCore plugins: 15345.1 milliseconds.
+Ticks = 50609      <13336> <AMEApp> <1> Entering RunEventLoop
+Ticks = 55203      <1576> <AMEFrontend> <5> PresetUI was unable to load the preset DPP AS-11 SD
+Ticks = 70078      <4988> <AMEFrontend> <5> PresetUI was unable to load the preset HD 720p 24, H.264, AAC 48 kHz
+Ticks = 70094      <13276> <AMEFrontend> <5> PresetUI was unable to load the preset HD 1080i 25, H.264, AAC 48 kHz
+Ticks = 70109      <11912> <AMEFrontend> <5> PresetUI was unable to load the preset HD 1080i 29.97, H.264, AAC 48 kHz
+Ticks = 70234      <13276> <AMEFrontend> <5> PresetUI was unable to load the preset NTSC, H.264, AAC 48 kHz
+Ticks = 70297      <1576> <AMEFrontend> <5> PresetUI was unable to load the preset PAL, H.264, AAC 48 kHz
+Ticks = 153703      <13336> <AMEApp> <1> Exited RunEventLoop
+-------------------------------------------
+Log file closed: 12/20/2015 11:43:39 AM
+
